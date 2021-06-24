@@ -1,6 +1,6 @@
 # learning_flutter
 
-A new Flutter project.
+Happy Place Notes usig SQFLite
 
 ## Getting Started
 
